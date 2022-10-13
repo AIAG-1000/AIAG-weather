@@ -4,7 +4,7 @@ import requests
 from pprint import pprint
 
 # APIkey from Openweathermap
-APIKey = "76cb8c6fedfd6db5c3130110aa46c863"
+APIKey = "*Put your own API key here*"
 # This is for the user to input
 city = input("Enter a location: ")
 # URL needs to be made of coordinates
